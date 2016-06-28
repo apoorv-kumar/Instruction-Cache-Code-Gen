@@ -1,0 +1,29 @@
+Code-generator for testing i-cache misses.
+    developed by
+    Apoorv Kumar
+    IIT Guwahati
+    (June 2011)
+
+See the accompanying pdf for technical documentation of code and tool
+
+
+
+==============================================================================
+To run the code , (I assume you run linux , windows shouldn't be too different)
+
+-> in terminal open src folder
+
+-> use python to open the main file : 
+
+		python workload_code.py
+		
+==============================================================================
+
+
+
+
+==============================================================================
+This tool has all the xml files associated with Netbeans6.9. (folder:nbproject)
+You can open it as a netbeans project , or just delete the folder and
+continue to use develop it using any other source of your preference.
+==============================================================================
